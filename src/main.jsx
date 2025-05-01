@@ -5,6 +5,7 @@ import ErrorPage from "./ErrorPage";
 import Hero from "./Hero";
 import "./index.css";
 import Mainpage from "./Mainpage";
+import SingleBookDetails from "./SingleBookDetails";
 const router = createBrowserRouter([
   {
     path: "/",
@@ -17,8 +18,12 @@ const router = createBrowserRouter([
         // loader: () => fetch("bookdata.json"),
       },
       {
-        path: "book",
-        element: <p>Books</p>,
+        path: "/home/book/:id",
+        element: <SingleBookDetails></SingleBookDetails>,
+        loader: () => fetch("bookdata.json"),
+      },
+      {
+        //path : "/"
       },
     ],
   },
