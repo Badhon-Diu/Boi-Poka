@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "The Catcher in the Rye",
+    "author": "Awlad Hossain",
+    "categories": ["Young Adult", "Identity"],
+    "genre": "Fiction",
+    "rating": 5.0,
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1725449764i/218471348.jpg"
+  },
+  {
+    "id": 2,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "categories": ["Classics", "Social Issues"],
+    "genre": "Fiction",
+    "rating": 4.8,
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1725449764i/218471348.jpg"
+  },
+  {
+    "id": 3,
+    "title": "1984",
+    "author": "George Orwell",
+    "categories": ["Dystopian", "Political"],
+    "genre": "Science Fiction",
+    "rating": 4.7,
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1725449764i/218471348.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "categories": ["Romance", "Historical"],
+    "genre": "Fiction",
+    "rating": 4.6,
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1725449764i/218471348.jpg"
+  },
+  {
+    "id": 5,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "categories": ["Classics", "Tragedy"],
+    "genre": "Fiction",
+    "rating": 4.5,
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1725449764i/218471348.jpg"
+  },
+  {
+    "id": 6,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "categories": ["Fantasy", "Adventure"],
+    "genre": "Fantasy",
+    "rating": 4.9,
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1725449764i/218471348.jpg"
+  }
+]

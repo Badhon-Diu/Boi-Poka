@@ -5,7 +5,7 @@ import NavBar from "./NavBar";
 
 const Mainpage = () => {
   return (
-    <div>
+    <div className="max-w-7xl mx-auto ">
       <NavBar></NavBar>
       <Outlet></Outlet>
       <Footer></Footer>
