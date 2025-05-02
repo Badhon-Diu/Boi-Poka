@@ -18,7 +18,7 @@ const SingleBookDetails = () => {
 
   return (
     <div>
-      <div className="max-w-6xl mx-auto bg-white dark:bg-gray-800 rounded-lg shadow-md p-6 md:flex md:space-x-6">
+      <div className="max-w-6xl mx-auto bg-white dark:bg-gray-800 rounded-lg shadow-md mt-10 p-6 md:flex md:space-x-6">
         {/* Book Image */}
         <div className="flex-shrink-0 mb-4  md:justify-center md:items-center md:flex bg-gray-50 rounded-2xl p-5 md:mb-0">
           <img

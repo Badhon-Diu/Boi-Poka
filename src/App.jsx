@@ -4,6 +4,7 @@ import NavBar from "./NavBar";
 function App() {
   return (
     <>
+    {/* Navbar */}
      <NavBar></NavBar>
     </>
   );

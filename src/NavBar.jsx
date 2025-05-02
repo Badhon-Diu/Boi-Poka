@@ -61,7 +61,7 @@ const NavBar = () => {
             </li>
           </ul>
         </div>
-        <div className="navbar-end flex gap-4">
+        <div className="navbar-end hidden md:flex lg:flex sm:flex gap-4">
           <a className="btn rounded-xl bg-[#23be0a] p-6 text-white">Sign In</a>
           <a className="btn  rounded-xl p-6 bg-[#59c6d2] text-white">Sign Up</a>
         </div>
