@@ -4,6 +4,7 @@ import BookCard from "./BookCard";
 
 const Hero = () => {
   const [books, setbooks] = useState([]);
+  const [listedbooks , setlistedbooks] = useState([])
   useEffect(() => {
     fetch("bookdata.json")
       .then((res) => res.json())
